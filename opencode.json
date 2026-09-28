@@ -1,0 +1,6 @@
+﻿{
+  "$schema": "https://opencode.ai/config.json",
+  "plugins": [
+    "opencode-chatgpt-websearch@0.1.1"
+  ]
+}
